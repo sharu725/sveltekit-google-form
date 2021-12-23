@@ -2,6 +2,5 @@
 
 Watch how to do it
 
-<iframe width="1900" height="796" src="https://www.youtube.com/embed/mBXEnakkUIM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
-
+[![Sveltekit contact form using Google Forms](https://i3.ytimg.com/vi/mBXEnakkUIM/maxresdefault.jpg)](https://www.youtube.com/watch?v=mBXEnakkUIM&ab_channel=WebJeda)
 [Read about Google Pre-filled links](https://webjeda.com/blog/google-pre-filled-forms)
